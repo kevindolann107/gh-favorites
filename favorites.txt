@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Steak
 Mexican
 Pizza
+=======
+Dead Poets Scoiety
+Project X
+Whiplash
+>>>>>>> movies
